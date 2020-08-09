@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Always learning <3
+Design student starting to learn back-end at {reprograma}
 <!--
 **marinamare/marinamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
