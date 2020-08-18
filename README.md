@@ -1,7 +1,9 @@
-### Hi there 👋
-
-Always learning <3
-Design student starting to learn back-end at {reprograma}
+### hello! 👋
+- :octocat: She/her
+- :books: Designer student at C.E.S.A.R School
+- :notebook: Love learn and also teach 
+- :purple_heart: Learning back-end at {Reprograma} 
+- :envelope: Send me a message at marinamaredesign@gmail.com
 <!--
 **marinamare/marinamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
