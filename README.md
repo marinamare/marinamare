@@ -1,7 +1,7 @@
 ### hello! 👋
 - :octocat: She/her
 - :books: Designer student at C.E.S.A.R School
-- :notebook: Love learn and also teach 
+- :notebook: Love to learn and also to teach 
 - :purple_heart: Learning back-end at {Reprograma} 
 - :envelope: Send me a message at marinamaredesign@gmail.com
 <!--
