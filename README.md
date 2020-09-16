@@ -3,7 +3,11 @@
 - :books: Designer student at C.E.S.A.R School
 - :notebook: Love to learn and also to teach 
 - :purple_heart: Learning back-end at {Reprograma} 
-- :envelope: Send me a message at marinamaredesign@gmail.com
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-freitas-moura/)
+[<img src="https://img.shields.io/github/followers/marinamare?label=follow&style=social" height="22" title="Follow me" />](https://github.com/marinamare) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marinamaredesign@gmail.com)
+
 <!--
 **marinamare/marinamare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
