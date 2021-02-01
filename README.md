@@ -2,7 +2,8 @@
 - :octocat: She/her
 - :books: Designer student at C.E.S.A.R School
 - :notebook: Love to learn and also to teach 
-- :purple_heart: Learning back-end at {Reprograma} 
+- :purple_heart: {Reprograma}'s Alumni in back-end 
+- :computer: Currently learning front-end 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-freitas-moura/)
 [<img src="https://img.shields.io/github/followers/marinamare?label=follow&style=social" height="22" title="Follow me" />](https://github.com/marinamare) 
