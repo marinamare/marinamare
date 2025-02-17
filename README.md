@@ -1,12 +1,13 @@
 ### hello! 👋
-- :octocat: She/her
-- :books: Designer student at C.E.S.A.R School
-- :notebook: Love to learn and also to teach 
-- :computer: Pretalaber
-- :purple_heart: {Reprograma}'s Alumni in back-end 
+- :octocat: non-binary | gender fluid | they/he/she
+- :round_pushpin: diasporic body living in 
+- :books: continuos learning with a focus in design
+- :notebook: love to learn and also to teach 
+- :computer: pretalaber
+- :purple_heart: {Reprograma}'s Alumni in back-end CESAR School's Alumni in Design
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-freitas-moura/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-mare/)
 [<img src="https://img.shields.io/github/followers/marinamare?label=follow&style=social" height="22" title="Follow me" />](https://github.com/marinamare) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marinamaredesign@gmail.com)
 
